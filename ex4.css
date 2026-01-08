@@ -1,0 +1,30 @@
+#display {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.on {
+    background-color: #ba0000;
+}
+
+.image {
+    width: 100px;
+    margin: 10px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
